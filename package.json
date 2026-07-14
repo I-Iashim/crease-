@@ -1,0 +1,20 @@
+{
+  "name": "crease-edits",
+  "version": "1.0.0",
+  "description": "Crease Edits — full-stack e-commerce site (Node.js + Express, JSON file database).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["ecommerce", "express", "clothing-store"],
+  "author": "Crease Edits",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
