@@ -28,7 +28,7 @@ function buildHeader(activePage){
   return `
   <nav class="navbar" id="navbar" aria-label="Primary">
     <div class="container">
-      <a href="index.html" class="brand">Clean<span>Edits</span></a>
+      <a href="index.html" class="brand">Crease<span>Edits</span></a>
 
       <div class="nav-links" id="navLinks">${navLinks}</div>
 
